@@ -28,10 +28,10 @@ flutter pub get
 ```
 ## Edit Environment
 Add your Google API Key and backend URL to the .env file. It should look something like this:<br />
-Example:<br />
-   GOOGLE_API_KEY=your_google_api_key_here<br />
-   BACKEND_URL=https://your-backend-url.com<br />
-
+```bash
+GOOGLE_API_KEY=your_google_api_key_here
+BACKEND_URL=https://your-backend-url.com
+```
 
 ## Run the Application
 ```bash
